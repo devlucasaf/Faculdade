@@ -20,7 +20,7 @@
 ├── 📁 3-semestre/       
 ├── 📁 4-semestre/       
 ├── 📁 5-semestre/       
-├── .      
+├── 📁 6-semestre/      
 ├── .      
 └── 📁 8-semestre/       
 ```
@@ -37,8 +37,8 @@
 | [2º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/2_semestre) | ✅ Concluído | 2024/2 |
 | [3º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/3_semestre) | ✅ Concluído | 2025/1 |
 | [4º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/4_semestre) | ✅ Concluído | 2025/2 |
-| [5º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/5_semestre) | 🔄 Em andamento | 2026/1 |
-| [6º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/6_semestre)| ⏳ Aguardando | 2026/2 |
+| [5º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/5_semestre) | ✅ Concluído | 2026/1 |
+| [6º Semestre](https://github.com/devlucasaf/UniCeub/tree/main/6_semestre)| 🔄 Em andamento | 2026/2 |
 | 7º Semestre | ⏳ Aguardando | 2027/1 |
 | 8º Semestre | ⏳ Aguardando | 2027/2 |
 
