@@ -1,0 +1,56 @@
+# ==========================================================
+# .gitignore - Programacao para Dispositivos Moveis
+# Ignora arquivos de build/IDE dos projetos C# (.NET/MAUI) e Java
+# ==========================================================
+
+# ===================== C# / .NET / MAUI =====================
+# Pastas de build e artefatos gerados
+[Bb]in/
+[Oo]bj/
+[Oo]ut/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]inaries/
+
+# Arquivos de usuario / cache do Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vs/
+
+# Cache e saidas do MSBuild
+*.cache
+*.tlog
+project.lock.json
+project.assets.json
+*.nuget.props
+*.nuget.targets
+
+# ======================== Java =========================
+# Arquivos compilados
+*.class
+
+# Pastas de build
+out/
+target/
+build/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs e arquivos temporarios
+*.log
+hs_err_pid*
