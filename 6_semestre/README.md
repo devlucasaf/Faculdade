@@ -11,7 +11,7 @@
 
 | # | Disciplina |
 |:---:|:---|
-| 01 | 📈 Pesquisa Operacional |
+| 01 | 📈 [Pesquisa Operacional](https://github.com/devlucasaf/UniCeub/tree/main/6_semestre/Pesquisa-Operacional) |
 | 02 | 🔗 Projeto Integrador II |
 | 03 | 🌐 Redes de Computadores |
 | 04 | 🕸️ Teoria de Grafos |
@@ -23,6 +23,12 @@
 ### ⚙️ Backend
 
 <div align="left">
+    <img 
+        alt="Java" 
+        height="40" 
+        style="margin:4px" 
+        src="https://skillicons.dev/icons?i=java"
+    />
 </div>
 
 ---
@@ -42,6 +48,18 @@
 ### 💻 IDEs & Editores
 
 <div align="left">
+    <img 
+        alt="VSCode" 
+        height="40" 
+        style="margin:4px" 
+        src="https://skillicons.dev/icons?i=vscode"
+    />
+    <img 
+        alt="IntelliJ" 
+        height="40" 
+        style="margin:4px" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"
+    />
 </div>
 
 ---
